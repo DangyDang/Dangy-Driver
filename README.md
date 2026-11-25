@@ -3,3 +3,7 @@ A DC motor driver board built around an Artery AT32F423CBT7 MCU. It drives a sin
 Quadrature encoder feedback is supported.
 
 The driver should work fine with 4s lipo batt. If you want to use 3s, bridge the 12V regulator.
+
+
+THE PROJECT IS STILL UNDER DEVELOPMENT.
+I'll try to upload the firmware asap.
